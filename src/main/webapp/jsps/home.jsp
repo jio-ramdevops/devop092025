@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK AWS time 6:30 - 8:30</h1>
+<h1 align="center">Welcome to KK AWS time starts at 6:30 - 8:30</h1>
 <h1 align="center"> KK FUNDA giving good content </h1>
 <hr>
 <br>
